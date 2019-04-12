@@ -1,0 +1,9 @@
+C:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\bin\Debug\ATMclassLibrary.dll
+C:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\bin\Debug\ATMclassLibrary.pdb
+C:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\obj\Debug\ATMclassLibrary.dll
+C:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\obj\Debug\ATMclassLibrary.pdb
+I:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\bin\Debug\ATMclassLibrary.dll
+I:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\bin\Debug\ATMclassLibrary.pdb
+I:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\obj\Debug\ATMclassLibrary.csprojResolveAssemblyReference.cache
+I:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\obj\Debug\ATMclassLibrary.dll
+I:\_PROGRAMANALYSIS DANGELO SANTANA\12 - INTEGRATION PROJECT PHASE1\DangeloSantana-PP1E-V1-1\ATMclassLibrary\ATMclassLibrary\obj\Debug\ATMclassLibrary.pdb
